@@ -9,7 +9,7 @@ import Index from "./pages/Index";
 import DashboardPage from "./pages/dashboard/index";
 import AddUserPage from "./pages/dashboard/add";
 import NotFound from "./pages/NotFound";
-import Navbar from "./components/ui/Navbar";
+import Navbar from "./components/UI/Navbar";
 
 const queryClient = new QueryClient();
 
